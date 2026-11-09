@@ -1,5 +1,5 @@
 R _code_ confidence_ interval_ generator
-This code generates bar charts with 95% confidence intervals to compare a rate across territorial units. In the temperature project, each chart shows the visit rate of the 33 territorial units of Colombia, sorted from highest to lowest. The bar represents the rate and the horizontal line, its confidence interval.
+This code generates bar charts with confidence intervals to compare a rate across territorial units. In the temperature project, each chart shows the visit rate of the 33 territorial units of Colombia, sorted from highest to lowest. The bar represents the rate and the horizontal line, its confidence interval.
 1. Requirements
 Install R and RStudio. The script uses the readxl package; the figures are drawn with the basic graphics functions of R. To run it, you need a single Excel file (.xlsx) that gathers the rates and limits of the six series.
 2. Obtaining and organizing the data

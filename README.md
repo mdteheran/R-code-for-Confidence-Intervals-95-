@@ -6,8 +6,6 @@ Column 2: central value (rate, mean, proportion or any other parameter).
 Column 3: lower limit of the confidence interval.
 Column 4: upper limit of the confidence interval.
 The categories appear in descending order, from the highest to the lowest value. The bar is dark blue and the confidence interval is a red line.
-Before running the code 
-Line 14: path of the folder where the Excel file is on your computer.
+Before running the code make the following changes: go to line 14; insert path of the folder where the Excel file is on your computer.
 Line 15: name of the Excel file.
 Line 16: name of the sheet.
-Then open the code in RStudio and click Source

@@ -1,4 +1,4 @@
-# SEIS FIGURAS DE TASAS E INTERVALOS DE CONFIANZA
+# Rates (CI 95%)
 # Fuente unica: Temperatura intervalos.xlsx, hoja general area.
 # Se leen Rate, LL y UL tal como estan guardados en ese Excel.
 # No se calculan tasas, intervalos, denominadores ni datos nuevos.

@@ -9,4 +9,4 @@ The categories appear in descending order, from the highest to the lowest value.
 Before running the code make the following changes: go to line 14; insert path of the folder where the Excel file is on your computer.
 Line 15: name of the Excel file.
 Line 16: name of the sheet.
-Note: the categorical variable (departments) it is switchable by another categorical variable. 
+Note: the categorical variable (departments) it is switchable by another categorical variable.
